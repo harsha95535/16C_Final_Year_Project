@@ -13,17 +13,17 @@ Perform edge detection over the frames from challenge.mp4 \
 ![GitHub Logo](/Outdoor-Navigation/Results/edgeDetection.jpg)
 
 Cut out reigon of interest. \
-![GitHub Logo](/Results/ROI.jpg)
+![GitHub Logo](/Outdoor-Navigation/Results/Results/ROI.jpg)
 
 Perform hough lines probabilistic over ROI frames. \
-![GitHub Logo](/Results/houghLines.jpg)
+![GitHub Logo](/Outdoor-Navigation/Results/Results/houghLines.jpg)
 
 Average out 2 linear lines using the results from hough lines probabilistic. \
-![GitHub Logo](/Results/linearLines.jpg)
+![GitHub Logo](/Outdoor-Navigation/Results/Results/linearLines.jpg)
 
 Perform quadratic regression on hough line results to outline the lanes. \
-![GitHub Logo](/Results/polyReg.jpg)
+![GitHub Logo](/Outdoor-Navigation/Results/Results/polyReg.jpg)
 
 Final results - \
-![GitHub Logo](/Results/detections.jpg)
+![GitHub Logo](/Outdoor-Navigation/Results/Results/detections.jpg)
 
