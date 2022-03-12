@@ -10,7 +10,7 @@ Both files detection.py and out.py have to be run simultaneously. The file detec
 The algorithm use the results from hough lines probabilistic and creates 2 linear lines to the driving lanes. Implemetation suggests that the 2 linear lines will intersect if the driving lanes curve or turn. \
 
 Perform edge detection over the frames from challenge.mp4 \
-![GitHub Logo](Outdoor_Navigation/Results/edgeDetection.jpg)
+![GitHub Logo](/Outdoor_Navigation/Results/edgeDetection.jpg)
 
 Cut out reigon of interest. \
 ![GitHub Logo](/Results/ROI.jpg)
