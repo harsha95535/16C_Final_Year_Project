@@ -9,7 +9,7 @@ System Architecture Overview:
 4.Text to Speech Synthesis
 5.Voice Output
 
-Image to speech consists of two main modules:\
+Image to speech consists of two main modules:
 
 Optical Character Recognition(OCR):
 	It is the process of recognition and automatic conversion of existing characters in the written-support image into the text format
@@ -19,7 +19,7 @@ Optical Character Recognition(OCR):
 	 Preprocessing 
 	 Feature extraction 
 	 Classification 
-	 Postprocessing\
+	 Postprocessing
 	 
 Text to Speech(TTS) synthesis:
 	--Voice synthesis, defined as TTS (acronym for Text-To-Speech), is a computer system that should be able to read aloud any text, regardless of its origin.
