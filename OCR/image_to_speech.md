@@ -10,7 +10,7 @@ System Architecture Overview:
 5.Voice Output
 
 Image to speech consists of two main modules:
--
+
 Optical Character Recognition(OCR):
 	--It is the process of recognition and automatic conversion of existing characters in the written-support image into the text format
 	--The process of optical character recognition can be summarized as a process that follows a set of steps: 
